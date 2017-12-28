@@ -1,4 +1,4 @@
-# github-bookmarks
+# Development Bookmarks
 ## Tools
 - [ReactNative standalone debugger](https://github.com/jhen0409/react-native-debugger)
 ## Interview
