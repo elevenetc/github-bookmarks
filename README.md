@@ -6,6 +6,7 @@
 - [Solutions for Cracking the Coding Interview](https://github.com/careercup/CtCI-6th-Edition/tree/master/Java)
 - [John Washam algorithms and topics](https://github.com/jwasham/coding-interview-university)
 - [Solutions for Cracking the Coding Interview from Rodney Shaghoulian](https://github.com/rshaghoulian/Cracking-the-Coding-Interview_solutions)
+- [Interviewing Tips for Android Engineers](https://eng.lyft.com/interviewing-tips-for-android-engineers-f01ce7fba163)
 ## Examples
 - [Vulkan C++](https://github.com/SaschaWillems/Vulkan)
 ## Demos
